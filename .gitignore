@@ -10,3 +10,5 @@ Horn_Controller-backups/
 Horn_Controller.step
 
 report.txt
+
+*.lck
